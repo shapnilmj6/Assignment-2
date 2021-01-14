@@ -1,0 +1,81 @@
+.nav-logo img{
+    width: 300px;
+}
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+.top-heading{
+    color:#FABE4C;
+}
+.side-images{
+    width: 100%;
+}
+.top-section{
+    background-color: #FFFBF0;
+}
+.ladies-jacket-images{
+    height: 350px;
+    width: 350px;
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+h3{
+    color: #363958;
+}
+.image-bg{
+    background-color: #F1F1F1;
+}
+.first-bottom-border img{
+                  height: 80px;
+                  width: 80px;
+}
+.second-bottom-border img{
+                 height: 80px;
+                 width: 80px;
+}
+.third-bottom-border img{
+                height: 80px;
+                width: 80px;
+}
+.btn-heading{
+    float: left;
+}
+.buy-now{
+    background-color: #49ad2f;
+}
+.btn{
+    color: white;
+}
+.nav-bar{
+    padding-left: 100px;
+}
+.bg-color{
+    background-color:#FFFBF0 ;
+}
+.footer-text{
+    font-size: 40px;
+}
+.submit-part{
+    background-color: cornsilk;
+}
+.submit-button{
+    background-image: linear-gradient(tomato,crimson);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
